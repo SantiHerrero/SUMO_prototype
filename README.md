@@ -1,6 +1,9 @@
 # Overview
 This is a prototype where the player can pick up powerups to defeat enemys (white spheres).
 
+# Install
+If you want to test it, you'll need [unity engine](https://unity.com/download) installed. Then download "*ExportedPackage.unitypackage*" and import it as an asset.
+
 # Missing
 - I would like to add some kind of UI where the player can see the current wave of the game and the actual score.
 
